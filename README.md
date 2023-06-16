@@ -15,3 +15,8 @@ Call the translate_text function and display the translation:
 Run the program and test it by entering the source language, target language, and the text you want to translate.
 
 This simple translator app allows you to enter the source language, target language, and the text you want to translate. It then utilizes the translate module to perform the translation using an AI-powered machine translation service.
+
+![image](https://github.com/vrushabhdhote29/Translator-App/assets/92002956/90c528a3-6992-4b18-bf96-37efe8156d2b)
+
+![image](https://github.com/vrushabhdhote29/Translator-App/assets/92002956/fbd4f866-25d8-4d10-8c01-7037085399a2)
+
